@@ -5,7 +5,8 @@ A Webcam-based drawing application that allows users to paint in real-time using
 
 ``` There is clear Encapsulation and inheritance, as well as polymorphisim in the assignement.```
 
-![Moin Mattar's Video - Oct 1, 2024](https://github.com/user-attachments/assets/7c965ecd-4aab-421f-a130-7b85bec1f35b)
+![Moin Mattar's Video - Oct 1, 2024](https://github.com/user-attachments/assets/15a2fbfa-f632-4d50-b87d-7c2365349e2d)
+
 
 ## Features ✨
 
